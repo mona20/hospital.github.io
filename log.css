@@ -1,0 +1,37 @@
+body
+{
+    margin: 0 auto;
+    background-color: #1abc9c;
+}
+.con
+{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 22px;
+    margin: 0 auto;
+  
+    margin-top: 150px;
+    border-radius: 4px;
+}
+.con img
+{
+    margin-top: -60px;
+    margin-bottom: 30px;
+}
+input
+{
+    height: 45px;
+    width: 300px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    padding-left: 30px;
+
+    
+}
+
+.con .sb
+{
+    background-color: #1abc9c;
+    color: aqua;
+}
